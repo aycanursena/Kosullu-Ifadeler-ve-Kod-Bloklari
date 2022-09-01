@@ -1,3 +1,4 @@
+```
 package KosulluIfadelerKodBloklari;
 import java.util.Scanner;
 
@@ -17,3 +18,4 @@ public class ArtikYilHesaplama {
             System.out.println(yil + " bir artık yıl değildir!");
     }
 }
+```
