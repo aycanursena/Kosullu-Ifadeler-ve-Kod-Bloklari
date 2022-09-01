@@ -1,3 +1,4 @@
+```
 package KosulluIfadelerKodBloklari;
 import java.util.Scanner;
 
@@ -51,3 +52,4 @@ public class UcakBiletFiyatiHesaplama {
         System.out.println("Çin Zodyağı Burcunuz :" + burc);
     }
 }
+```
