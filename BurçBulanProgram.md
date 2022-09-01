@@ -1,3 +1,4 @@
+```
 package KosulluIfadelerKodBloklari;
 import java.util.Scanner;
 
@@ -102,3 +103,4 @@ public class BurcBulanProgram {
         System.out.println("Burcunuz : " + burc);
     }
 }
+```
