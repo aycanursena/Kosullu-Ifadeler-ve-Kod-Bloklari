@@ -1,3 +1,4 @@
+```
 package Giris;
 import java.util.Scanner;
 
@@ -18,3 +19,4 @@ public class HavaSicakliginaGoreEtkinlik {
             System.out.println("Yüzmeye gidebilirsiniz.");
     }
 }
+```
